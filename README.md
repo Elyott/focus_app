@@ -1,3 +1,7 @@
+Fogas is a focus app that is simple and super effective.
+
+The user sets a timer then they can no longer use their phone because if they leave the app their phone will make fart noises. Embarrassment will be too great. Their phone is essentially in a timeout, which allows the user to focus on other work without being deistracted.
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
